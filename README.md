@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @owlthinkabtit
-- 👀 I’m interested in an array of things, y'know, "jack of all trades, master of none. but oftentimes better than a master of one." Though if I could narrow it down, I'm most interested in: space/time, technology, art (creating my own comics), crocheting, and cooking!
-- 🌱 I’m currently learning ...how to code, and the languages that are essenstial for me to progress in this feild. Currently I'm learning more about javascript, and I'm proficient in HTML5 and CSS. My goal is to become a frontend developer. 
-- 💞️ I’m looking to collaborate on ...nothing at this moment, I have much to learn. 
-- 📫 How to reach me ...my socials are linked somewhere on here, lol. 
-- 😄 Pronouns: ...she/they 
-- ⚡ Fun fact: ...I wanted to be a neurologist when I was a kid.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jameka
+==============================================================================================================================
+
+👩🏾‍💻 Frontend Developer | IT Specialist | Lifelong Learner
+-------------------------------------------------------------
+
+I'm a passionate frontend developer with a background in IT support and a love for creating intuitive, user-friendly web experiences. My journey into tech started in 2014 when I joined Tech Impact's ITWorks program, which opened the door to nearly a decade in IT. Now, I'm leveraging that foundation to build beautiful, accessible, and efficient web applications using React, JavaScript, and Tailwind CSS.
+
+*   🌍  I'm based in Philadelphia, PA
+*   🖥️  See my portfolio at [here](http://portfolio2025-delta.vercel.app/)
+*   ✉️  You can contact me at [haggins.jameka@gmail.com](mailto:haggins.jameka@gmail.com)### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/owlthinkabtit" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/jamekahaggins" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
 
 <!---
 owlthinkabtit/owlthinkabtit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
